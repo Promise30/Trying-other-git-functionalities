@@ -1,0 +1,4 @@
+document containing instruction
+git add to add files to git stage
+to add all files that haven't been committed and all the new changes- on powershell: git add -A
+every file in green means they are about to be committed
